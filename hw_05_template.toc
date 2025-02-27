@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {1}Abstract}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Methods}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Study site}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Data}{5}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Environmental}{5}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Fish}{6}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Statistics}{6}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Correlation analysis}{6}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Linear models}{7}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Model selection}{7}{subsection.3.3.3}%
+\contentsline {chapter}{\numberline {4}Results}{9}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Discusssion}{12}{chapter.5}%
+\contentsline {chapter}{References}{15}{chapter*.2}%
